@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 3dbedf3d081b84e329cc19a0c45f3a94
+timeCreated: 1431513826
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: levelUpBar_gfx
+    21300002: verticalSlider_btn
+    21300004: loadingBar_gfx
+    21300006: ItemHolder_bg
+    21300008: greyDialog_bg
+    21300010: brownDialog_bg
+    21300012: normal_btn
+    21300014: disabled_btn
+    21300016: LoadingBar_bg
+    21300018: avatarLvlHolder_bg
+    21300020: titleBar_bg
+    21300022: action_btn
+    21300024: highlighted_btn
+    21300026: smallBar_bg
+    21300028: smallSliderHandle_btn
+    21300030: closeNormal_btn
+    21300032: avatarFrame_bg
+    21300034: horizontalSlider_btn
+    21300036: over_btn
+    21300038: cancel_btn
+    21300040: checkmarkOff_btn
+    21300042: horizontalSlide_bg
+    21300044: arrowDownNormal_btn
+    21300046: arrowDownOver_btn
+    21300048: closeOver_btn
+    21300050: checkmarkOn_btn
+    21300052: smallBarRed_gfx
+    21300054: greyBox_bg
+    21300056: smallBarBlue_gfx
+    21300058: brownBox_bg
+    21300060: smallBarYellow_gfx
+    21300062: itemSlot_bg
+    21300064: verticalSlider_bg
+    21300066: tabBody_bg
+    21300068: tabSelected_btn
+    21300070: tabDeselected_btn
+    21300072: arrowUpNormal_btn
+    21300074: arrowUpOver_btn
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: levelUpBar_gfx
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1976
+        width: 1894
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: verticalSlider_btn
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1888
+        width: 81
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 74, z: 0, w: 74}
+    - name: loadingBar_gfx
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1899
+        width: 1894
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ItemHolder_bg
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1548
+        width: 576
+        height: 336
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 288, y: 264, z: 288, w: 69}
+    - name: greyDialog_bg
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1590
+        width: 497
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 248, y: 89, z: 249, w: 197}
+    - name: brownDialog_bg
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1601
+        width: 450
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 225, y: 108, z: 225, w: 175}
+    - name: normal_btn
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1738
+        width: 448
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 224, y: 0, z: 224, w: 0}
+    - name: disabled_btn
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1587
+        width: 432
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: LoadingBar_bg
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1424
+        width: 332
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 125, y: 0, z: 125, w: 0}
+    - name: avatarLvlHolder_bg
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1388
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: titleBar_bg
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1439
+        width: 431
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: action_btn
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1448
+        width: 433
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: highlighted_btn
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1436
+        width: 433
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: smallBar_bg
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1358
+        width: 310
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallSliderHandle_btn
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1292
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: closeNormal_btn
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1307
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatarFrame_bg
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1122
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horizontalSlider_btn
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1323
+        width: 149
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 74, y: 0, z: 74, w: 0}
+    - name: over_btn
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1299
+        width: 432
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: cancel_btn
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1285
+        width: 433
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 215, y: 0, z: 215, w: 0}
+    - name: checkmarkOff_btn
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1340
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horizontalSlide_bg
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1287
+        width: 280
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 135, y: 0, z: 135, w: 0}
+    - name: arrowDownNormal_btn
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1224
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowDownOver_btn
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1224
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: closeOver_btn
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1224
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: checkmarkOn_btn
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1244
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallBarRed_gfx
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1241
+        width: 275
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greyBox_bg
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 992
+        width: 399
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 180, y: 120, z: 180, w: 120}
+    - name: smallBarBlue_gfx
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1195
+        width: 275
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brownBox_bg
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 995
+        width: 450
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallBarYellow_gfx
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1149
+        width: 275
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemSlot_bg
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 891
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: verticalSlider_bg
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 855
+        width: 54
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 135, z: 0, w: 135}
+    - name: tabBody_bg
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 913
+        width: 377
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 188, y: 90, z: 188, w: 90}
+    - name: tabSelected_btn
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1010
+        width: 328
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tabDeselected_btn
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 904
+        width: 327
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowUpNormal_btn
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1155
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowUpOver_btn
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1155
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
